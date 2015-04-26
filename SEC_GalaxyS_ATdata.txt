@@ -1,0 +1,11 @@
+"subject" "activity" "feature" "meanMean" "meanStd"
+1 "WALKING" "FrequencyBodyAccelerationJerkX" -0.170546964549579 -0.133586606326316
+1 "WALKING" "FrequencyBodyAccelerationJerkY" -0.0352255241130632 0.106739857136
+1 "WALKING" "FrequencyBodyAccelerationJerkZ" -0.468999224631579 -0.534713440421053
+1 "WALKING" "FrequencyBodyAccelerationMagnitude" -0.128623450629474 -0.398032586842105
+1 "WALKING" "FrequencyBodyAccelerationX" -0.202794306326316 -0.319134719578947
+1 "WALKING" "FrequencyBodyAccelerationY" 0.0897127264021053 0.056040006846
+1 "WALKING" "FrequencyBodyAccelerationZ" -0.331560117789474 -0.279686751494737
+1 "WALKING" "FrequencyBodyAccelerationJerkMagnitude" -0.0571194000343158 -0.103492403002105
+1 "WALKING" "FrequencyBodyAngularVelocityJerkMagnitude" -0.319308593778947 -0.381601911789474
+1 "WALKING" "FrequencyBodyAngularVelocityMagnitude" -0.199252568986316 -0.321017953894737
